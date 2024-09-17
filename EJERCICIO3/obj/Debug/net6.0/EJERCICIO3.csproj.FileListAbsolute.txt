@@ -1,0 +1,14 @@
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.exe
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.deps.json
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.runtimeconfig.json
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.dll
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.pdb
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.AssemblyInfoInputs.cache
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.AssemblyInfo.cs
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.dll
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\refint\EJERCICIO3.dll
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.pdb
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.genruntimeconfig.cache
+C:\Users\tlacomba\source\repos\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\ref\EJERCICIO3.dll
